@@ -1,0 +1,4 @@
+int32 system_periph_name
+int32 val
+---
+bool ret
